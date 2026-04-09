@@ -1,0 +1,20 @@
+{
+  "auth_user": "0",
+  "cookies": {
+    "SID": "your_SID_cookie_value",
+    "__Secure-1PSID": "your___Secure-1PSID_cookie_value",
+    "__Secure-3PSID": "your___Secure-3PSID_cookie_value",
+    "HSID": "your_HSID_cookie_value",
+    "SSID": "your_SSID_cookie_value",
+    "APISID": "your_APISID_cookie_value",
+    "SAPISID": "your_SAPISID_cookie_value",
+    "__Secure-1PAPISID": "your___Secure-1PAPISID_cookie_value",
+    "__Secure-3PAPISID": "your___Secure-3PAPISID_cookie_value",
+    "SIDCC": "your_SIDCC_cookie_value",
+    "__Secure-1PSIDCC": "your___Secure-1PSIDCC_cookie_value",
+    "__Secure-3PSIDCC": "your___Secure-3PSIDCC_cookie_value",
+    "NID": "your_NID_cookie_value",
+    "__Secure-1PSIDTS": "your___Secure-1PSIDTS_cookie_value",
+    "__Secure-3PSIDTS": "your___Secure-3PSIDTS_cookie_value"
+  }
+}
